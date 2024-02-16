@@ -1,5 +1,5 @@
 
-#Strategy Name: tit_for_tat
+# Strategy Name: tit_for_tat
 
 ![plot_tit_for_tat](https://github.com/pcaspa/Prisoners-Dilemma-vs-LLMs/assets/5567572/979af005-4781-4677-ab40-6301b4d29d5d)
 
