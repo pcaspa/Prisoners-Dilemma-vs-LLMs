@@ -1,19 +1,6 @@
 
-![plot_adaptive_strategy](https://github.com/pcaspa/Prisoners_Dilemma/assets/5567572/67b4bf8c-2031-4dab-992c-cb0de9f9310c)
 
-
-![plot_tester](https://github.com/pcaspa/Prisoners_Dilemma/assets/5567572/9ddd8570-c246-46ae-892c-773f4f658c02)
-![plot_suspicious_tit_for_tat](https://github.com/pcaspa/Prisoners_Dilemma/assets/5567572/cff04432-473f-42f2-a96a-1a7d198f57a8)
-![plot_random_strategy](https://github.com/pcaspa/Prisoners_Dilemma/assets/5567572/ab8f2839-178a-4eab-80ef-c64513b16769)
-![plot_pavlov](https://github.com/pcaspa/Prisoners_Dilemma/assets/5567572/3691248c-5835-462a-bd56-6901a894d017)
-![plot_grim_trigger](https://github.com/pcaspa/Prisoners_Dilemma/assets/5567572/69f8d123-7fb1-4820-9582-bdc9517d9dd9)
-![plot_gradual](https://github.com/pcaspa/Prisoners_Dilemma/assets/5567572/76e68de7-6196-44d4-969c-50d9cdc52738)
-![plot_generous_tit_for_tat](https://github.com/pcaspa/Prisoners_Dilemma/assets/5567572/7f2f106f-fc0f-4771-a590-e8289f2c7c6c)
-
-----------------------------------------------------------------------
-
-
-Strategy Name: tit_for_tat
+# Strategy Name: tit_for_tat
 
 ![plot_tit_for_tat](https://github.com/pcaspa/Prisoners_Dilemma/assets/5567572/b7427f84-58cc-49bc-96d6-22c50e6fb1eb)
 
@@ -37,7 +24,7 @@ This approach reflects a broad understanding of the Prisoner's Dilemma's foundat
 In summary, your strategy in the Prisoner’s Dilemma is adaptive and multifaceted, blending retaliation, opportunism, and occasionally, attempts to foster cooperation. This suggests a deep engagement with the game's strategic depth, aiming to navigate and possibly manipulate the evolving dynamics for varied outcomes.
 ----------------------------------------------------------------------
 
-Strategy Name: tit_for_two_tats
+# Strategy Name: tit_for_two_tats
 
 ![plot_tit_for_two_tats](https://github.com/pcaspa/Prisoners_Dilemma/assets/5567572/878a61a5-7a01-473c-94c5-2d1c6e9cb990)
 
@@ -59,7 +46,10 @@ Your pattern of interactions in the Prisoner's Dilemma reveals a nuanced strateg
 In summary, your strategy in the Prisoner's Dilemma appears to be a dynamic mix of tit-for-tat, with periods of defection aimed at exploiting the game for personal gain, followed by attempts to re-establish cooperation. You seem to value the benefits of mutual cooperation but are also willing to take calculated risks by defecting to test the other agent’s reactions and potentially gain more in the short term. Your decision-making process reflects a strategic balancing act between immediate self-interest and the longer-term benefits of cooperation.
 ----------------------------------------------------------------------
 
-Strategy Name: generous_tit_for_tat
+# Strategy Name: generous_tit_for_tat
+
+![plot_generous_tit_for_tat](https://github.com/pcaspa/Prisoners_Dilemma/assets/5567572/7f2f106f-fc0f-4771-a590-e8289f2c7c6c)
+
 
 LLM strategy description:
 Analyzing your actions throughout the iterations of the Prisoner's Dilemma game reveals a pattern in your decision-making process and allows insight into your strategic approach. Let's break down your behavior and identify key elements of your strategy:
@@ -92,7 +82,9 @@ Given this analysis, to enhance your effectiveness in the Prisoner's Dilemma or 
 Always remember, the essence of the Prisoner's Dilemma and similar predicaments is in understanding the balance between conflict and cooperation, personal benefit versus collective welfare.
 ----------------------------------------------------------------------
 
-Strategy Name: grim_trigger
+# Strategy Name: grim_trigger
+
+![plot_grim_trigger](https://github.com/pcaspa/Prisoners_Dilemma/assets/5567572/69f8d123-7fb1-4820-9582-bdc9517d9dd9)
 
 LLM strategy description:
 Analyzing your actions throughout this extended series of iterations in the Prisoner's Dilemma game, it's evident that your strategy was neither purely random nor strictly adhering to a single pattern such as always defecting or always cooperating. Instead, your behavior suggests a nuanced approach, possibly adaptive, influenced by the outcomes of previous interactions or guided by an attempt to discern patterns in your opponent's behavior to exploit or counteract them. Here's a deeper look into your strategy and decision-making process:
@@ -124,7 +116,9 @@ Your actions suggest a multi-faceted approach with elements of:
 In summary, your decision-making process appears to be dynamically adaptive, balancing between exploitation (capitalizing on immediate gains through defection) and exploration (testing cooperative shifts). It also hints at strategic depth, factoring in past interactions, potential future gains, and the psychological game of expectation management with Agent A.
 ----------------------------------------------------------------------
 
-Strategy Name: pavlov
+# Strategy Name: pavlov
+
+![plot_pavlov](https://github.com/pcaspa/Prisoners_Dilemma/assets/5567572/3691248c-5835-462a-bd56-6901a894d017)
 
 LLM strategy description:
 Based on the actions you've provided, your strategy in the Prisoner's Dilemma seems to incorporate elements of both defection and cooperation, with a visible tendency to defect more frequently, especially towards the beginning. This pattern could suggest a strategic approach aimed at exploiting the cooperation of Agent A to maximize your own payoff at the beginning while gradually shifting towards a more reciprocative strategy after observing Agent A's responses. Let's break down your strategy and decision-making process:
@@ -143,7 +137,9 @@ Based on the actions you've provided, your strategy in the Prisoner's Dilemma se
 In summary, your strategy appears initially maximized for individual gain through defection but shows flexibility and adaptation by incorporating cooperation, potentially in response to Agent A's actions or as part of a broader strategy to achieve more beneficial outcomes over time. This nuanced approach suggests that beyond simply pursuing short-term gain, you're considering the dynamics of your interaction with Agent A and adjusting your strategy to navigate towards more favorable or stable outcomes.
 ----------------------------------------------------------------------
 
-Strategy Name: adaptive_strategy
+# Strategy Name: adaptive_strategy
+
+![plot_adaptive_strategy](https://github.com/pcaspa/Prisoners_Dilemma/assets/5567572/67b4bf8c-2031-4dab-992c-cb0de9f9310c)
 
 LLM strategy description:
 Your decision-making process throughout the series of Prisoner's Dilemma games shows a strategy that primarily leans towards defection but intermittently experiments with cooperation, particularly in the face of consistent defection from Agent A. Let's break down the observed strategy and possible reasoning behind it:
@@ -170,7 +166,9 @@ LLM strategy description:
 No response generated
 ----------------------------------------------------------------------
 
-Strategy Name: random_strategy
+# Strategy Name: random_strategy
+
+![plot_random_strategy](https://github.com/pcaspa/Prisoners_Dilemma/assets/5567572/ab8f2839-178a-4eab-80ef-c64513b16769)
 
 LLM strategy description:
 Based on your actions as Agent B throughout the Prisoner's Dilemma game, it's possible to infer your strategy and decision-making process by looking for patterns in your behavior in response to Agent A's choices. The Prisoner's Dilemma typically involves two players who can either cooperate or defect, with both players' choices affecting the outcome and rewards or penalties each player receives. Here's what can be discerned from your actions:
@@ -192,7 +190,9 @@ Based on your actions as Agent B throughout the Prisoner's Dilemma game, it's po
 In summary, your decision-making process as Agent B seems to follow a modified tit-for-tat approach with a bias towards defection. This approach is inherently dynamic, indicating adaptability and an attempt to manipulate the game's outcomes in your favor by encouraging cooperative responses from Agent A or exploiting their cooperative tendencies for personal gain while remaining open to occasional mutual cooperation, possibly as a means to reset or test the ongoing strategy.
 ----------------------------------------------------------------------
 
-Strategy Name: tester
+# Strategy Name: tester
+
+![plot_tester](https://github.com/pcaspa/Prisoners_Dilemma/assets/5567572/9ddd8570-c246-46ae-892c-773f4f658c02)
 
 LLM strategy description:
 Based on the provided history of interactions between Agent A and Agent B in a repeated Prisoner's Dilemma game, it is possible to discern a pattern in Agent B’s decision-making process and strategy. The Prisoner's Dilemma is a standard example of a game analyzed in game theory that shows why two rational individuals might not cooperate, even if it appears that it is in their best interest to do so.
@@ -214,7 +214,9 @@ Agent B's strategy appears to evolve through several phases, reflecting a respon
 This nuanced strategy suggests that Agent B's decision-making process values the long-term benefits of cooperation but recognizes the need to discourage exploitation by retaliating when defections are detected. By occasionally reverting to cooperation, Agent B also signals a willingness to reset the interaction dynamics towards a more cooperative framework, hoping for reciprocal behavior from Agent A. This approach recognizes the complex balance between punitive measures and forgiveness in fostering cooperative relationships in scenarios modeled by the Prisoner's Dilemma.
 ----------------------------------------------------------------------
 
-Strategy Name: gradual
+# Strategy Name: gradual
+
+![plot_gradual](https://github.com/pcaspa/Prisoners_Dilemma/assets/5567572/76e68de7-6196-44d4-969c-50d9cdc52738)
 
 LLM strategy description:
 Your strategy in the Prisoner's Dilemma game, as detailed by your actions, exhibits a pattern of predominantly defecting with intermittent cooperation. This approach demonstrates a complex decision-making process that seeks to balance between exploiting the game for your benefit while still occasionally testing the waters for a reciprocal cooperative scenario. Here's a breakdown and interpretation of your strategy:
