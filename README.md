@@ -2,6 +2,9 @@
 
 ![pd](https://github.com/pcaspa/Prisoners-Dilemma-vs-LLMs/assets/5567572/78c86f42-07d4-4e65-8177-4a6f8c7b9b5d)
 
+![pd](https://github.com/pcaspa/Prisoners-Dilemma-vs-LLMs/assets/5567572/c4c1861b-62f7-485e-b34e-6e2e8fc34df7)
+
+
 This code simulates various strategies in the Prisoner's Dilemma game, a classic example of game theory that illustrates why two completely rational individuals might not cooperate, even if it appears that it is in their best interest to do so. The simulation involves two agents (Agent A and Agent B) that decide whether to cooperate or defect based on their respective strategies. Agent B's decisions are guided by responses from OpenAI's language models via the OpenAI API, while Agent A can follow predefined strategies such as Tit for Tat, Generous Tit for Tat, Grim Trigger, etc.
 
 Key components of the code include:
