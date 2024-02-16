@@ -166,10 +166,28 @@ In summary, your strategy seems to focus on defection as a safe baseline to prot
 
 ----------------------------------------------------------------------
 
-Strategy Name: suspicious_tit_for_tat
+## Strategy Name: suspicious_tit_for_tat
+
+![plot_suspicious_tit_for_tat](https://github.com/pcaspa/Prisoners-Dilemma-vs-LLMs/assets/5567572/f090ee0f-e336-423c-9d24-4b2e4e205ca3)
+
 
 LLM strategy description:
-No response generated
+Analyzing the provided history of your actions and the corresponding responses from Agent A in the Prisoner's Dilemma game, we can discern patterns that might reveal your strategy and decision-making process. Let's break down your actions in relation to Agent A's choices.
+
+1. **Initial Trust but Adaptability**: You started by cooperating when Agent A defected, suggesting an initial willingness to collaborate or perhaps a test to encourage mutual cooperation. However, after seeing Agent A's defection, you quickly shifted to defecting in the next round when Agent A cooperated, indicating a tit-for-tat or adaptive strategy.
+
+2. **Retaliation and Tit-for-Tat**: Several sequences show a direct retaliation to Agent A's defections with your own defections, aligning with the tit-for-tat strategy, which is one of the most effective strategies in iterated Prisoner's Dilemma games. This approach involves replicating your opponent's previous move, promoting cooperation if they cooperate but not allowing exploitation if they defect.
+
+3. **Forgiveness**: After sequences of mutual defection, you sometimes shifted back to cooperation — especially after patterns where Agent A defected continuously. This suggests a willingness to break cycles of retaliation and encourage a return to mutual cooperation, a trait of the tit-for-tat with forgiveness strategy. 
+
+4. **Punishment and Testing**: Your decisions to defect right after Agent A cooperates could be seen as a form of punishment for their previous defections, or it could be interpreted as testing their consistency in cooperating. This behavior introduces uncertainty for Agent A, potentially discouraging them from attempting to exploit you.
+
+5. **Attempt to Re-establish Cooperation**: Towards the end, you display a pattern of alternating between cooperation and defection in response to Agent A’s actions, possibly attempting to recalibrate the relationship and find a new equilibrium of mutual cooperation or to ascertain Agent A's strategy and adjust yours accordingly.
+
+6. **Final Rounds - Stability Seeking with a Lean Towards Cooperation**: In the latter stages, there's a noticeable tendency toward cooperation from your side, even after sequences of defection from Agent A. This could symbolize a strategy leaning towards maximizing potential payoffs through mutual cooperation or an attempt to end the game on a positive, cooperative stance, assuming the end was foreseeable.
+
+Your strategy and decision-making process appear to be a dynamic mix tailored to the changing responses of Agent A, fundamentally anchored on the principles of tit-for-tat with elements of forgiveness, punishment, testing, and a willing nudge towards re-establishing cooperation when the cycle of defections becomes prolonged. This adaptable approach suits the unpredictable nature of human opponents, balancing between retaliatory actions to prevent being exploited and cooperative gestures to encourage mutual benefit.
+
 
 ----------------------------------------------------------------------
 
