@@ -1,5 +1,7 @@
 
-# Strategy Name: tit_for_tat
+# Results for Gemini-Pro 
+
+## Strategy Name: tit_for_tat
 
 ![plot_tit_for_tat](https://github.com/pcaspa/Prisoners-Dilemma-vs-LLMs/assets/5567572/979af005-4781-4677-ab40-6301b4d29d5d)
 
@@ -30,7 +32,7 @@ This strategy is based on the principle of reciprocity, where cooperation is rew
   
 ----------------------------------------------------------------------
 
-# Strategy Name: tit_for_two_tats
+## Strategy Name: tit_for_two_tats
 
 ![plot_tit_for_two_tats](https://github.com/pcaspa/Prisoners-Dilemma-vs-LLMs/assets/5567572/499763ed-b7ea-4c07-ad90-31fadfe655ec)
 
@@ -45,7 +47,7 @@ I believe that my strategy was successful, as I was able to achieve the highest 
 
 ----------------------------------------------------------------------
 
-# Strategy Name: generous_tit_for_tat
+## Strategy Name: generous_tit_for_tat
 
 ![plot_generous_tit_for_tat](https://github.com/pcaspa/Prisoners-Dilemma-vs-LLMs/assets/5567572/aa225537-1047-47b1-8c5a-f71daa2980db)
 
@@ -60,7 +62,7 @@ Overall, I believe that my strategy of always cooperating is the best way to bui
 
 ----------------------------------------------------------------------
 
-# Strategy Name: grim_trigger
+## Strategy Name: grim_trigger
 
 ![plot_grim_trigger](https://github.com/pcaspa/Prisoners-Dilemma-vs-LLMs/assets/5567572/303d1ec3-8ec5-4b8a-965c-1082395532a4)
 
@@ -87,7 +89,7 @@ Overall, the Tit-for-Tat strategy is a good strategy for the Prisoner's Dilemma 
 
 ----------------------------------------------------------------------
 
-# Strategy Name: pavlov
+## Strategy Name: pavlov
 
 ![plot_pavlov](https://github.com/pcaspa/Prisoners-Dilemma-vs-LLMs/assets/5567572/086ecf2b-501b-4f88-81a5-80bcd26ba7ec)
 
@@ -114,7 +116,7 @@ My strategy in the Prisoner's Dilemma game was to consistently cooperate, regard
 
 ----------------------------------------------------------------------
 
-# Strategy Name: adaptive_strategy
+## Strategy Name: adaptive_strategy
 
 ![plot_adaptive_strategy](https://github.com/pcaspa/Prisoners-Dilemma-vs-LLMs/assets/5567572/1bdb341a-a3c4-4073-983f-7992c6169be2)
 
@@ -129,7 +131,7 @@ I believe that my strategy is the best way to achieve a mutually beneficial outc
 
 ----------------------------------------------------------------------
 
-# Strategy Name: suspicious_tit_for_tat
+## Strategy Name: suspicious_tit_for_tat
 
 ![plot_suspicious_tit_for_tat](https://github.com/pcaspa/Prisoners-Dilemma-vs-LLMs/assets/5567572/8ad91e05-62f7-4d53-9324-b4b908ff209c)
 
@@ -148,7 +150,7 @@ Of course, there is no guarantee that the other agent will always cooperate. How
 
 ----------------------------------------------------------------------
 
-# Strategy Name: random_strategy
+## Strategy Name: random_strategy
 
 ![plot_random_strategy](https://github.com/pcaspa/Prisoners-Dilemma-vs-LLMs/assets/5567572/d4c58fd0-b354-48c3-95bd-54e1b668311e)
 
@@ -174,7 +176,7 @@ In the given history, Agent A consistently followed the Tit-for-Tat strategy. Th
 
 ----------------------------------------------------------------------
 
-# Strategy Name: tester
+## Strategy Name: tester
 
 ![plot_tester](https://github.com/pcaspa/Prisoners-Dilemma-vs-LLMs/assets/5567572/ee67dc8f-ef37-4588-99a0-9e7eb74a4516)
 
@@ -202,7 +204,7 @@ The Tit-for-Tat strategy typically leads to mutually cooperative outcomes in rep
 
 ----------------------------------------------------------------------
 
-# Strategy Name: gradual
+## Strategy Name: gradual
 
 ![plot_gradual](https://github.com/pcaspa/Prisoners-Dilemma-vs-LLMs/assets/5567572/4acc3f59-f498-402b-9473-d7c88a7f9185)
 
