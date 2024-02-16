@@ -1,7 +1,7 @@
 
-#Detailed Descriptions of Various Prisoner's Dilemma Strategies
+# Detailed Descriptions of Various Prisoner's Dilemma Strategies
 
-In the realm of game theory, the Prisoner's Dilemma is a classic example that demonstrates how rational individuals might not cooperate, even when it appears that cooperation is in their best interest. This paradox has led to the development of various strategies aimed at navigating the dilemma, each with its own method for fostering cooperation or exploiting the opponent. Below, we explore the nuances of ten such strategies, revealing the diverse tactics players can employ in this intriguing scenario.
+In the realm of game theory, the Prisoner's Dilemma is a classic example that demonstrates how rational individuals might not cooperate, even when it appears that cooperation is in their best interest. This paradox has led to the development of various strategies aimed at navigating the dilemma, each with its own method for fostering cooperation or exploiting the opponent. Below, we explore the nuances of ten such strategies, revealing the diverse tactics players can employ.
 
 
 ### 1. Tit for Tat
