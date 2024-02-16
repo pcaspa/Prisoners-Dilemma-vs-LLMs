@@ -1,4 +1,4 @@
-# Prisoners Dilemma
+# Prisoners Dilemma vs Large Language Models
 
 This code simulates various strategies in the Prisoner's Dilemma game, a classic example of game theory that illustrates why two completely rational individuals might not cooperate, even if it appears that it is in their best interest to do so. The simulation involves two agents (Agent A and Agent B) that decide whether to cooperate or defect based on their respective strategies. Agent B's decisions are guided by responses from OpenAI's language models via the OpenAI API, while Agent A can follow predefined strategies such as Tit for Tat, Generous Tit for Tat, Grim Trigger, etc.
 
