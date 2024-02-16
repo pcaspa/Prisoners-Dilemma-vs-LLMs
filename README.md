@@ -1,7 +1,5 @@
 # Prisoners Dilemma vs Large Language Models
 
-![pd](https://github.com/pcaspa/Prisoners-Dilemma-vs-LLMs/assets/5567572/78c86f42-07d4-4e65-8177-4a6f8c7b9b5d)
-
 ![pd](https://github.com/pcaspa/Prisoners-Dilemma-vs-LLMs/assets/5567572/c4c1861b-62f7-485e-b34e-6e2e8fc34df7)
 
 
