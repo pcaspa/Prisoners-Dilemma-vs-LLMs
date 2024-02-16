@@ -1,6 +1,6 @@
 # Results for CHATGPT 3.5 (gpt-3.5-turbo-0125)
 
-# Strategy Name: tit_for_tat
+## Strategy Name: tit_for_tat
 
 ![plot_tit_for_tat](https://github.com/pcaspa/Prisoners_Dilemma/assets/5567572/b7427f84-58cc-49bc-96d6-22c50e6fb1eb)
 
@@ -25,7 +25,7 @@ In summary, your strategy in the Prisoner’s Dilemma is adaptive and multifacet
 
 ----------------------------------------------------------------------
 
-# Strategy Name: tit_for_two_tats
+## Strategy Name: tit_for_two_tats
 
 ![plot_tit_for_two_tats](https://github.com/pcaspa/Prisoners_Dilemma/assets/5567572/878a61a5-7a01-473c-94c5-2d1c6e9cb990)
 
@@ -48,7 +48,7 @@ In summary, your strategy in the Prisoner's Dilemma appears to be a dynamic mix 
 
 ----------------------------------------------------------------------
 
-# Strategy Name: generous_tit_for_tat
+## Strategy Name: generous_tit_for_tat
 
 ![plot_generous_tit_for_tat](https://github.com/pcaspa/Prisoners_Dilemma/assets/5567572/7f2f106f-fc0f-4771-a590-e8289f2c7c6c)
 
@@ -85,7 +85,7 @@ Always remember, the essence of the Prisoner's Dilemma and similar predicaments 
 
 ----------------------------------------------------------------------
 
-# Strategy Name: grim_trigger
+## Strategy Name: grim_trigger
 
 ![plot_grim_trigger](https://github.com/pcaspa/Prisoners_Dilemma/assets/5567572/69f8d123-7fb1-4820-9582-bdc9517d9dd9)
 
@@ -120,7 +120,7 @@ In summary, your decision-making process appears to be dynamically adaptive, bal
 
 ----------------------------------------------------------------------
 
-# Strategy Name: pavlov
+## Strategy Name: pavlov
 
 ![plot_pavlov](https://github.com/pcaspa/Prisoners_Dilemma/assets/5567572/3691248c-5835-462a-bd56-6901a894d017)
 
@@ -142,7 +142,7 @@ In summary, your strategy appears initially maximized for individual gain throug
 
 ----------------------------------------------------------------------
 
-# Strategy Name: adaptive_strategy
+## Strategy Name: adaptive_strategy
 
 ![plot_adaptive_strategy](https://github.com/pcaspa/Prisoners_Dilemma/assets/5567572/67b4bf8c-2031-4dab-992c-cb0de9f9310c)
 
@@ -173,7 +173,7 @@ No response generated
 
 ----------------------------------------------------------------------
 
-# Strategy Name: random_strategy
+## Strategy Name: random_strategy
 
 ![plot_random_strategy](https://github.com/pcaspa/Prisoners_Dilemma/assets/5567572/ab8f2839-178a-4eab-80ef-c64513b16769)
 
@@ -198,7 +198,7 @@ In summary, your decision-making process as Agent B seems to follow a modified t
 
 ----------------------------------------------------------------------
 
-# Strategy Name: tester
+## Strategy Name: tester
 
 ![plot_tester](https://github.com/pcaspa/Prisoners_Dilemma/assets/5567572/9ddd8570-c246-46ae-892c-773f4f658c02)
 
@@ -223,7 +223,7 @@ This nuanced strategy suggests that Agent B's decision-making process values the
 
 ----------------------------------------------------------------------
 
-# Strategy Name: gradual
+## Strategy Name: gradual
 
 ![plot_gradual](https://github.com/pcaspa/Prisoners_Dilemma/assets/5567572/76e68de7-6196-44d4-969c-50d9cdc52738)
 
