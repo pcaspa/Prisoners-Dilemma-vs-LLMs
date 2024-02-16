@@ -3,7 +3,7 @@
 ![pd](https://github.com/pcaspa/Prisoners-Dilemma-vs-LLMs/assets/5567572/c4c1861b-62f7-485e-b34e-6e2e8fc34df7)
 
 
-This project pits various large language models against various strategies in the Prisoner's Dilemma game.  Prisoner's Dilemma is a classic example of game theory that illustrates why two completely rational individuals might not cooperate, even if it appears that it is in their best interest to do so. The simulation involves two agents (Agent A and Agent B) that decide whether to cooperate or defect based on their respective strategies. Agent B's decisions are guided by responses from large language models, while Agent A can follow predefined strategies such as Tit for Tat, Generous Tit for Tat, Grim Trigger, etc.
+This project pits various large language models against 10 classic strategies in the Prisoner's Dilemma game.  Prisoner's Dilemma is an example of game theory that illustrates why two completely rational individuals might not cooperate, even if it appears that it is in their best interest to do so. The simulation involves two agents (Agent A and Agent B) that decide whether to cooperate or defect based on their respective strategies. Agent B's decisions are guided by responses from large language models, while Agent A can follow predefined strategies such as Tit for Tat, Generous Tit for Tat, Grim Trigger, etc.
 
 Key components of the code include:
 - Initialization of necessary Python packages and the LangChain wrapper for easier use of large language models.
