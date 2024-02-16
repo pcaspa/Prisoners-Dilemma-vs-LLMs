@@ -1,6 +1,4 @@
 
-# Results for Gemini-Pro 
-
 The code generates four primary outputs to analyze the Prisoner's Dilemma strategies:
 
 ### 1. **strat_log.txt**
