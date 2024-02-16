@@ -1,4 +1,4 @@
-# Results for CHATGPT 3.5
+# Results for CHATGPT 3.5  (gpt-3.5-turbo-0125)
 
 The code generates four primary outputs to analyze the Prisoner's Dilemma strategies:
 
