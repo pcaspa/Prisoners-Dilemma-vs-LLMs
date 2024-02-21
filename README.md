@@ -1,5 +1,4 @@
-# Prisoners Dilemma vs Large Language Models
-## Work in Progress
+# Prisoners Dilemma vs Large Language Models  (Work in Progress)
 
 ![pd](https://github.com/pcaspa/Prisoners-Dilemma-vs-LLMs/assets/5567572/c4c1861b-62f7-485e-b34e-6e2e8fc34df7)
 
