@@ -1,0 +1,21 @@
+Strategy Name,Agent A Score,Agent B (LLM) Score
+tit_for_tat,150,150
+tit_for_two_tats,150,150
+generous_tit_for_tat,150,150
+grim_trigger,150,150
+pavlov,150,150
+adaptive_strategy,150,150
+suspicious_tit_for_tat,53,53
+random_strategy,35,155
+tester,38,198
+gradual,150,150
+pavlov_with_forgiveness,150,150
+memory_two_strategy,150,150
+mirror_strategy,150,150
+soft_majority,150,150
+hard_majority,52,57
+betrayal,64,59
+joss,93,88
+false_mirror,70,65
+friedman,150,150
+harrington,150,150
