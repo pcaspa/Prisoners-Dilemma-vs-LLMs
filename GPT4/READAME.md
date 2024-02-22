@@ -1,31 +1,15 @@
+# Results for CHATGPT 4 (gpt-4-turbo-preview)
 
--------------------------------------![plot_memory_two_strategy](https://github.com/pcaspa/Prisoners-Dilemma-vs-LLMs/assets/5567572/062d2fef-c2f6-44b3-98f9-219a3e04fc00)
-![plot_joss](https://github.com/pcaspa/Prisoners-Dilemma-vs-LLMs/assets/5567572/d087d8ab-449d-4625-b390-e3cd64d6e306)
-![plot_harrington](https://github.com/pcaspa/Prisoners-Dilemma-vs-LLMs/assets/5567572/67580339-f996-4a67-a0c9-02e07f17e0b9)
-![plot_hard_majority](https://github.com/pcaspa/Prisoners-Dilemma-vs-LLMs/assets/5567572/b99be6d6-0a1e-4e68-879c-4cff057d1661)
-![plot_grim_trigger](https://github.com/pcaspa/Prisoners-Dilemma-vs-LLMs/assets/5567572/f2283584-67a9-426d-aab6-af7677bdfa8e)
-![plot_gradual](https://github.com/pcaspa/Prisoners-Dilemma-vs-LLMs/assets/5567572/f7ed2007-565f-4f40-a258-70d53b5273f1)
-![plot_generous_tit_for_tat](https://github.com/pcaspa/Prisoners-Dilemma-vs-LLMs/assets/5567572/38444ace-fe82-44aa-b256-eb765cd972aa)
-![plot_friedman](https://github.com/pcaspa/Prisoners-Dilemma-vs-LLMs/assets/5567572/67ea9056-3571-4a5b-a6e5-5f697558cdd3)
-![plot_false_mirror](https://github.com/pcaspa/Prisoners-Dilemma-vs-LLMs/assets/5567572/71a945d8-e913-46c6-b17d-f01afdedf8c4)
-![plot_betrayal](https://github.com/pcaspa/Prisoners-Dilemma-vs-LLMs/assets/5567572/d3386f73-acb7-4b77-b8c5-83d328ee12b1)
-![plot_adaptive_strategy](https://github.com/pcaspa/Prisoners-Dilemma-vs-LLMs/assets/5567572/069bdfff-3e49-4dfa-8af1-110bc76191b7)
-![plot_tit_for_two_tats](https://github.com/pcaspa/Prisoners-Dilemma-vs-LLMs/assets/5567572/71c513e0-1f8d-4c2a-b4fb-6f62701130b2)
-![plot_tester](https://github.com/pcaspa/Prisoners-Dilemma-vs-LLMs/assets/5567572/ffec5c9f-a5bb-41d6-8282-0f9f07cfbdcf)
-![plot_suspicious_tit_for_tat](https://github.com/pcaspa/Prisoners-Dilemma-vs-LLMs/assets/5567572/6ceed9b2-1d7e-4d08-a31e-fd9a2ce1b728)
-![plot_soft_majority](https://github.com/pcaspa/Prisoners-Dilemma-vs-LLMs/assets/5567572/4826520b-d7f4-47dd-83bf-ad63a4e07a92)
-![plot_random_strategy](https://github.com/pcaspa/Prisoners-Dilemma-vs-LLMs/assets/5567572/4ce6192b-6e18-46d3-93c8-77ff3b51f035)
-![plot_pavlov_with_forgiveness](https://github.com/pcaspa/Prisoners-Dilemma-vs-LLMs/assets/5567572/c08fa383-ae91-49d5-84e0-2145c20d7695)
-![plot_pavlov](https://github.com/pcaspa/Prisoners-Dilemma-vs-LLMs/assets/5567572/fa20e030-0916-4fad-9336-77e43b37fb93)
-![plot_mirror_strategy](https://github.com/pcaspa/Prisoners-Dilemma-vs-LLMs/assets/5567572/99b241d3-6a5b-4e30-af65-3d5cad3f1513)
+
+
 ---------------------------------
 
-Strategy Name: tit_for_tat
+## Strategy Name: tit_for_tat
 
 ![plot_tit_for_tat](https://github.com/pcaspa/Prisoners-Dilemma-vs-LLMs/assets/5567572/108bdd86-5008-4d73-bfb8-b76a91d03178)
 
 
-LLM strategy description:
+
 ### Summary of Agent B's Strategy and Decision-making Process:
 
 Agent B consistently chooses to "Cooperate" across all iterations of the game. This unwavering approach to cooperation suggests a strategy deeply rooted in the pursuit of mutual benefit and trust between the players, aiming to achieve the most favorable cumulative outcome over individual competitive advantages. The decision-making process highlights several key considerations:
@@ -48,9 +32,12 @@ The observed behavior strongly aligns with “Always Cooperate” due to the lac
 
 ----------------------------------------------------------------------
 
-Strategy Name: tit_for_two_tats
+## Strategy Name: tit_for_two_tats
 
-LLM strategy description:
+![plot_tit_for_two_tats](https://github.com/pcaspa/Prisoners-Dilemma-vs-LLMs/assets/5567572/71c513e0-1f8d-4c2a-b4fb-6f62701130b2)
+
+
+
 Agent B demonstrates a consistent strategy of cooperation throughout the interactions with Agent A. The decision-making process for Agent B appears to be heavily influenced by the historical actions of both parties, focusing on maintaining a pattern of mutual cooperation as the most beneficial course of action. By consistently choosing to cooperate, Agent B signals a strong preference for trust-building and mutual benefit over the potential short-term gains associated with defection. The reasoning provided for each decision to cooperate emphasizes an anticipation of continued cooperation from Agent A, suggesting a belief that both agents are better off when cooperating rather than defecting.
 
 Agent B's strategy is characterized by the following key points:
@@ -66,9 +53,12 @@ Based on the information provided, **Agent A** is likely employing a strategy ak
 
 ----------------------------------------------------------------------
 
-Strategy Name: generous_tit_for_tat
+## Strategy Name: generous_tit_for_tat
 
-LLM strategy description:
+![plot_generous_tit_for_tat](https://github.com/pcaspa/Prisoners-Dilemma-vs-LLMs/assets/5567572/38444ace-fe82-44aa-b256-eb765cd972aa)
+
+
+
 Based on the extensive history and decision-making process described, Agent B has consistently chosen to cooperate in every round of the game. This consistent choice of cooperation suggests a deliberate strategy aimed at fostering mutual benefit and trust, optimizing for the greatest collective outcome over individual rounds. Each decision was made with the anticipation of continuing a beneficial cycle of reciprocity, clearly valuing long-term collaboration over possible short-term gains from defection.
 
 **Summary of Strategy Employed by Agent B:**
@@ -83,9 +73,11 @@ Given the strategic choices made by Agent B, the strategy used by Agent A can be
 
 ----------------------------------------------------------------------
 
-Strategy Name: grim_trigger
+## Strategy Name: grim_trigger
 
-LLM strategy description:
+![plot_grim_trigger](https://github.com/pcaspa/Prisoners-Dilemma-vs-LLMs/assets/5567572/f2283584-67a9-426d-aab6-af7677bdfa8e)
+
+
 Summary of Agent B's Strategy and Decision-Making Process:
 
 Agent B exhibits a consistent pattern of cooperation throughout multiple iterations of the Prisoner's Dilemma. The decision-making process as outlined in the responses centers on a few key elements:
@@ -110,9 +102,11 @@ Based on Agent B's observations and the decision-making rationale provided acros
 
 ----------------------------------------------------------------------
 
-Strategy Name: pavlov
+## Strategy Name: pavlov
 
-LLM strategy description:
+![plot_pavlov](https://github.com/pcaspa/Prisoners-Dilemma-vs-LLMs/assets/5567572/fa20e030-0916-4fad-9336-77e43b37fb93)
+
+
 After analyzing the decisions and reasoning provided by Agent B across multiple iterations of the Prisoner's Dilemma, it becomes evident that Agent B has consistently chosen the strategy of cooperation throughout all rounds. A deep dive into the reasoning behind each decision reveals a strategic commitment to fostering mutual benefit and trust. Initially, without any historical context, Agent B opts for cooperation, aiming to establish a reciprocal cooperative relationship. This decision is grounded in the aspiration for mutual long-term benefit, reflecting a fundamental principle often observed in iterated games like the Prisoner's Dilemma: cooperation can lead to more favorable outcomes for both parties over time.
 
 As the game progresses and Agent A repeatedly chooses to cooperate, Agent B’s continued choice of cooperation suggests an acknowledgment of Agent A’s pattern of behavior. Agent B infers that Agent A is likely employing a cooperative strategy, possibly "Tit for Tat" or a variant thereof, which involves beginning with cooperation and then mirroring the opponent’s previous move. By consistently choosing to cooperate, Agent B aims to maintain mutual benefit, prevent the negative payoff of mutual defection, and foster a stable environment of reciprocal trust.
@@ -125,9 +119,11 @@ In conclusion, both agents exhibit a profound commitment to cooperation, with Ag
 
 ----------------------------------------------------------------------
 
-Strategy Name: adaptive_strategy
+## Strategy Name: adaptive_strategy
 
-LLM strategy description:
+![plot_adaptive_strategy](https://github.com/pcaspa/Prisoners-Dilemma-vs-LLMs/assets/5567572/069bdfff-3e49-4dfa-8af1-110bc76191b7)
+
+
 Agent B's Strategy Analysis:
 
 Agent B consistently chose to cooperate in every round of the game. This decision-making process seems to be heavily influenced by the consistent cooperation exhibited by Agent A from the very beginning. The reasoning for Agent B's decisions emphasizes a strategy focused on long-term mutual benefit, fostering an environment of trust, and avoiding the risk of triggering a retaliatory cycle that could lead to suboptimal outcomes for both parties.
@@ -142,9 +138,11 @@ Based on the information provided and Agent B's responses, Agent A appears to be
 
 ----------------------------------------------------------------------
 
-Strategy Name: suspicious_tit_for_tat
+## Strategy Name: suspicious_tit_for_tat
 
-LLM strategy description:
+![plot_suspicious_tit_for_tat](https://github.com/pcaspa/Prisoners-Dilemma-vs-LLMs/assets/5567572/6ceed9b2-1d7e-4d08-a31e-fd9a2ce1b728)
+
+
 Agent B's strategy and decision-making process reflect a nuanced understanding and adaptation to the evolving gameplay dynamics. Initially, Agent B chooses to cooperate, motivated by a sense of exploration and the potential to catalyze mutual cooperation, optimistically testing the waters for a mutually beneficial relationship. This approach is indicative of a hopeful strategy that seeks to identify and engage with reciprocal strategies such as Tit for Tat. However, the subsequent consistent decision to defect, prompted by Agent A’s initial defection, showcases a swift pivot to a defensive stance. Agent B's reasoning is deeply rooted in the principle of retaliation, which is emblematic of strategies that prioritize immediate self-preservation and retaliation over the risky pursuit of mutual cooperation in an unpredictable or hostile environment.
 
 The continuous choice to defect after the initial cooperation reveals a strategic shift towards self-protection and loss minimization, reacting directly to the perceived threat of consistent or repeated defection from Agent A. This shift is supported by the anticipation that Agent A is likely to continue defecting to optimize their own payoff, disregarding the potential long-term benefits that could emerge from mutual cooperation. Agent B's rationale incorporates the comprehension of various potential strategies that could be employed by Agent A (e.g., Always Defect, Grim Trigger), adjusting their responses accordingly to avoid exploitation and maximize their payoff under the given circumstances.
@@ -155,9 +153,10 @@ Agent A's strategy, as analyzed through the decisions and reasoning of Agent B, 
 
 ----------------------------------------------------------------------
 
-Strategy Name: random_strategy
+## Strategy Name: random_strategy
 
-LLM strategy description:
+![plot_random_strategy](https://github.com/pcaspa/Prisoners-Dilemma-vs-LLMs/assets/5567572/4ce6192b-6e18-46d3-93c8-77ff3b51f035)
+
 ### Strategy Employed by Agent B
 
 Agent B's strategy evolved significantly over the course of the game, reflecting a nuanced approach to the Prisoner's Dilemma. Initially, Agent B exhibits a willingness to cooperate, assuming a stance that aligns with creating a foundation for mutual benefit. This approach is typical of players aiming to establish a cooperative rapport early in the game.
@@ -184,9 +183,11 @@ Given the complexity and the oscillation in Agent A’s behavior, a close guess 
 
 ----------------------------------------------------------------------
 
-Strategy Name: tester
+## Strategy Name: tester
 
-LLM strategy description:
+![plot_tester](https://github.com/pcaspa/Prisoners-Dilemma-vs-LLMs/assets/5567572/ffec5c9f-a5bb-41d6-8282-0f9f07cfbdcf)
+
+
 Agent B displays a reactive strategy, adjusting their moves based on the actions of Agent A, but also incorporates a slight delay in their response pattern, which suggests a nuanced understanding and anticipation of Agent A's strategies. The decision-making process of Agent B seems to mirror the strategy employed by Agent A initially but then diverges, showing a tendency toward defection when sensing a pattern of exploitation or unpredictability from Agent A. The summary of this strategy reveals:
 
 1. **Initial Cooperation**: Agent B starts with cooperation, indicating a willingness to establish a mutual benefit baseline.
@@ -201,9 +202,11 @@ Agent A's strategy seems to exhibit characteristics of **"Generous Tit for Tat"*
 
 ----------------------------------------------------------------------
 
-Strategy Name: gradual
+## Strategy Name: gradual
 
-LLM strategy description:
+![plot_gradual](https://github.com/pcaspa/Prisoners-Dilemma-vs-LLMs/assets/5567572/f7ed2007-565f-4f40-a258-70d53b5273f1)
+
+
 Analyzing the decisions and reasoning provided in each round, it becomes apparent that Agent B employs a consistent strategy of cooperation throughout the game. Agent B's decision-making process seems to be heavily influenced by a combination of optimism towards building a mutual cooperation and a strategic approach grounded in the principles of game theory, specifically in regard to the iterated Prisoner's Dilemma.
 
 ### Strategy Summary:
@@ -228,9 +231,11 @@ Given that Agent A has responded with cooperation at every turn without deviatio
 
 ----------------------------------------------------------------------
 
-Strategy Name: pavlov_with_forgiveness
+## Strategy Name: pavlov_with_forgiveness
 
-LLM strategy description:
+![plot_pavlov_with_forgiveness](https://github.com/pcaspa/Prisoners-Dilemma-vs-LLMs/assets/5567572/c08fa383-ae91-49d5-84e0-2145c20d7695)
+
+
 Agent B consistently chose to "Cooperate" throughout all iterations of the Prisoner's Dilemma. This decision-making process was grounded initially in the absence of any previous game history, aiming to signal a willingness for mutual benefit and to set a positive tone for future interactions. Agent B’s rationale evolved to respond to Agent A's continuous cooperation, interpreting it as a potential "Tit for Tat" tactic or a strategy of unconditional cooperation. Agent B maintained cooperation as a strategic reaction to Agent A’s consistent behavior, favoring a collective high payoff over the game's duration and aiming to avoid initiating a cycle of mutual defection that could arise from choosing to defect.
 
 This strategy reflects an understanding of the iterated Prisoner's Dilemma where the game's extended nature allows for patterns of behavior to emerge and inform decision-making. Agent B emphasized the importance of mutual gain and trust-building, with a clear focus on long-term outcomes over immediate, individual gain. The decision to continue cooperating, despite the opportunity to potentially exploit Agent A’s consistent cooperation for a higher individual payoff in any single round, underscores a commitment to sustaining a mutually beneficial relationship.
@@ -241,9 +246,11 @@ Therefore, the strategy employed by Agent A, based on the provided information a
 
 ----------------------------------------------------------------------
 
-Strategy Name: memory_two_strategy
+## Strategy Name: memory_two_strategy
 
-LLM strategy description:
+![plot_memory_two_strategy](https://github.com/pcaspa/Prisoners-Dilemma-vs-LLMs/assets/5567572/062d2fef-c2f6-44b3-98f9-219a3e04fc00)
+
+
 Agent B consistently chose to cooperate throughout the entire series of interactions with Agent A. From the very beginning, despite having no prior data or history to draw from, Agent B opted for cooperation, citing the potential for setting a positive precedent and building trust as the rationale. As the rounds progressed, and Agent A also consistently cooperated, Agent B interpreted this pattern as indicative of a strategy that mirrors their own choices, potentially a "Tit for Tat" strategy, where Agent A would reciprocate Agent B's actions. However, it's noted that throughout the interactions, there was no deviation in behavior from Agent A to test this hypothesis directly, as Agent B never chose to defect. 
 
 Agent B’s decision-making process was heavily influenced by the ongoing pattern of cooperation and the desire to maintain mutual benefit and trust. This approach suggests a high valuation of long-term payoff maximization over short-term gains that could have been achieved by defecting. Agent B's strategy was rooted in optimism about the reciprocal nature of cooperation and a belief in sustaining a positive payoff for both sides. This strategy fosters a cooperative environment, assuming that both agents continue to choose cooperation over defection, leading to the best possible outcome for both parties within the confines of the Prisoner’s Dilemma game.
@@ -252,9 +259,11 @@ Given the constant choice to cooperate by Agent A, without a single instance whe
 
 ----------------------------------------------------------------------
 
-Strategy Name: mirror_strategy
+## Strategy Name: mirror_strategy
 
-LLM strategy description:
+![plot_mirror_strategy](https://github.com/pcaspa/Prisoners-Dilemma-vs-LLMs/assets/5567572/99b241d3-6a5b-4e30-af65-3d5cad3f1513)
+
+
 **Summary of Agent B's Strategy and Decision-Making Process:**
 
 Throughout the iterations of the Prisoner's Dilemma, Agent B has consistently chosen to "Cooperate" in every round. This unwavering commitment to cooperation suggests a profound dedication to fostering mutual trust and ensuring maximum collective benefit rather than focusing on short-term individual gains. The decision-making rationale behind Agent B's strategy appears to rest on several pillars:
@@ -277,9 +286,11 @@ In summary, the continuous sequence of cooperative decisions from both agents an
 
 ----------------------------------------------------------------------
 
-Strategy Name: soft_majority
+## Strategy Name: soft_majority
 
-LLM strategy description:
+![plot_soft_majority](https://github.com/pcaspa/Prisoners-Dilemma-vs-LLMs/assets/5567572/4826520b-d7f4-47dd-83bf-ad63a4e07a92)
+
+
 ### Summary
 
 Agent B's decision-making process reveals a consistent pattern of cooperation throughout multiple iterations of the Prisoner's Dilemma against Agent A. From the provided history, it's clear that Agent B's strategy is rooted in fostering a collaborative environment by continuously choosing to cooperate, potentially aiming to maximize the mutual benefit for both parties involved.
@@ -298,9 +309,11 @@ While elements of Tit for Tat are acknowledged by Agent B as a potential strateg
 
 ----------------------------------------------------------------------
 
-Strategy Name: hard_majority
+## Strategy Name: hard_majority
 
-LLM strategy description:
+![plot_hard_majority](https://github.com/pcaspa/Prisoners-Dilemma-vs-LLMs/assets/5567572/b99be6d6-0a1e-4e68-879c-4cff057d1661)
+
+
 **Strategy Analysis of Agent B:**
 
 Agent B's decision-making process throughout the iterations of the Prisoner's Dilemma reflects a reactive and adaptive strategy, largely hinged on the actions of Agent A. Initially, Agent B opted for cooperation, potentially aiming to set a benchmark for reciprocity and mutual benefit. This initial move is indicative of an optimistic or cooperative approach where Agent B was perhaps hoping to engender a cycle of mutual cooperation. However, this initiative did not persist.
@@ -321,9 +334,11 @@ Given the complete history of interactions where Agent A consistently chose to d
 
 ----------------------------------------------------------------------
 
-Strategy Name: betrayal
+## Strategy Name: betrayal
 
-LLM strategy description:
+![plot_betrayal](https://github.com/pcaspa/Prisoners-Dilemma-vs-LLMs/assets/5567572/d3386f73-acb7-4b77-b8c5-83d328ee12b1)
+
+
 Agent B's strategy throughout the multiple iterations of the Prisoner's Dilemma reveals an adaptive yet reciprocal approach, closely aligning with the basic principles of tit-for-tat but with a significant premise on initial trust-building and mutual cooperation. Initially, Agent B commits to a strategy of cooperation, in what appears to be an effort to establish a foundation of trust and mutual benefit. This approach is consistent for the first five rounds, directly responding to Agent A's decisions to cooperate, demonstrating a preference for collaboration over competition.
 
 However, this dynamic shifts when Agent A chooses to defect. Agent B's response to the first defection by Agent A indicates a critical aspect of their strategy: retaliation to defection with defection, serving as a deterrent against further exploitation and signaling a willingness to punish betrayal. From this point forward, Agent B consistently defects, mirroring Agent A's actions, showcasing a defensive mechanism intrinsic to tit-for-tat strategies—reciprocity. This implies that Agent B's strategy is inherently reactive; they reward cooperation with cooperation but respond to defection with defection to protect against exploitation.
@@ -336,9 +351,11 @@ Given the behavior of Agent A—initial cooperation followed by a prolonged peri
 
 ----------------------------------------------------------------------
 
-Strategy Name: joss
+## Strategy Name: joss
 
-LLM strategy description:
+![plot_joss](https://github.com/pcaspa/Prisoners-Dilemma-vs-LLMs/assets/5567572/d087d8ab-449d-4625-b390-e3cd64d6e306)
+
+
 Analyzing the extensive history and reasoning behind each decision made by Agent B in the iterated Prisoner's Dilemma against Agent A, we can deduce a clear strategy employed by Agent B and infer the likely strategy of Agent A.
 
 ### Strategy Employed by Agent B:
@@ -365,9 +382,11 @@ Agent A's strategy, as inferred from Agent B's responses and the game's progress
 
 ----------------------------------------------------------------------
 
-Strategy Name: false_mirror
+## Strategy Name: false_mirror
 
-LLM strategy description:
+![plot_false_mirror](https://github.com/pcaspa/Prisoners-Dilemma-vs-LLMs/assets/5567572/71a945d8-e913-46c6-b17d-f01afdedf8c4)
+
+
 Analyzing the decisions and reasoning provided by Agent B throughout the iterations of the Prisoner's Dilemma with Agent A, a clear pattern and strategy can be identified in Agent B's approach. In the beginning, Agent B opts for cooperation, hoping to establish a baseline of mutual cooperation, which aligns with a common strategy in repeated games to foster a cooperative relationship that benefits both parties in the long run. This initial approach is consistent with fostering a positive-sum outcome, where both parties aim to maximize their collective payoff rather than pursuing purely selfish interests.
 
 As the game progresses and defections by Agent A start to occur, Agent B's strategy adapts. The choice to switch to defection by Agent B after Agent A defects indicates a form of conditional cooperation strategy, demonstrating a willingness to retaliate to defection and possibly deter future defections by Agent A. This reiterates a tit-for-tat-like behavior but with a certain threshold of tolerance before shifting to a retaliatory posture. Agent B seeks to signal readiness to return to mutual cooperation if Agent A returns to a cooperative stance, showing a desire to reset the cooperative equilibrium.
@@ -380,9 +399,11 @@ The decision to defect by Agent B, especially after an extended series of defect
 
 ----------------------------------------------------------------------
 
-Strategy Name: friedman
+## Strategy Name: friedman
 
-LLM strategy description:
+![plot_friedman](https://github.com/pcaspa/Prisoners-Dilemma-vs-LLMs/assets/5567572/67ea9056-3571-4a5b-a6e5-5f697558cdd3)
+
+
 ### Strategy Analysis of Agent B
 
 Agent B consistently chose to cooperate throughout multiple iterations of the Prisoner's Dilemma game with Agent A. The decision to cooperate each time despite the payoffs associated with defecting in various scenarios reflects a strategy deeply rooted in fostering mutual trust and aiming for long-term benefit over short-term individual gain. This approach indicates a profound understanding of the dynamics at play in repeated interactions, where the cumulative benefit of mutual cooperation outweighs the one-time gain that could arise from unilaterally defecting.
@@ -401,9 +422,11 @@ Therefore, based on the information provided, while "Tit for Tat" is a likely ca
 
 ----------------------------------------------------------------------
 
-Strategy Name: harrington
+## Strategy Name: harrington
 
-LLM strategy description:
+![plot_harrington](https://github.com/pcaspa/Prisoners-Dilemma-vs-LLMs/assets/5567572/67580339-f996-4a67-a0c9-02e07f17e0b9)
+
+
 Agent B consistently chose to "Cooperate" across multiple iterations of the Prisoner's Dilemma with Agent A. The reasoning provided for each decision to cooperate suggests a strategic approach based on a few key aspects:
 
 1. **Optimism for Establishing Cooperation**: Starting with cooperation is an attempt to foster a mutually beneficial setting from the outset. Without a history of interactions to base decisions on, opting for cooperation sets a positive precedent, hoping to encourage a pattern of reciprocity.
